@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @egithinji
-- 👀 I’m interested in Rust and network programming. I have a background in network admin and project management, but I'm switching to writing software professionally.
+- 👀 I’m interested in Rust and network programming. I have a background in network admin and project management, but now switching to programming.
 - 👀 I've also done some native Android development (Java).
 - 🌱 I’m currently learning Rust and network programming.
 - 💞️ I’m open to collaborate on any interesting projects.
