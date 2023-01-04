@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @egithinji
-- 👀 I have a background in network admin and project management, but am now focused on programming.
-- 👀 I'm currently learning Rust.
-- 👀 I've also done some native Android development in Java.
-- 💞️ I’m open to collaborate on any interesting projects.
+- 👋 Hi, I’m @egithinji a full-stack software developer
+- :rocket: Check out my most recent personal project: www.power-map.io
+- :computer:  I'm currently working with Javascript, Rust and Web Assembly
+- :fire: I’m open to collaborate on interesting projects
 - 📫 How to reach me: ericgithinji@gmail.com.
 
 <!---
