@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @egithinji a full-stack software developer
+- 👋 Hi, I’m @egithinji a full stack software developer
 - :rocket: Check out my most recent personal project: www.power-map.io
 - 🛠️: I enjoy turning big, complicated things into smaller, simple things
 - :computer:  I'm currently working with Javascript, Rust and Web Assembly
