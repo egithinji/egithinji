@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @egithinji a software developer
-- :rocket: Check out my passion project: www.power-map.io
-- 🛠️ I enjoy turning big, complicated things into smaller, simple things
+- 👋 Hi, I’m @egithinji a software engineer
+- :rocket: www.power-map.io
 - 📫 How to reach me: ericgithinji@gmail.com
 
 <!---
